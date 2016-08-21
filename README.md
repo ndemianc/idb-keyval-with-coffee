@@ -61,3 +61,4 @@ idbKeyval.clear();
 ```
 
 This is port of idb-keyval (https://github.com/jakearchibald/idb-keyval) to CoffeeScript!
+### And there You have it: 43 lines :)
